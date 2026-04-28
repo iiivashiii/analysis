@@ -215,4 +215,9 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/secrets.toml]
+
+# Мои локальные данные и ключи
+*.csv
+.env
+.ipynb_checkpoints/
